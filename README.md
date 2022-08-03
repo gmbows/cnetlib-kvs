@@ -1,5 +1,5 @@
-# cnetlib-kvs
-A tiny JSON key-value store built on cnetlib
+# json-kvs
+A tiny json key-value store built on cnetlib
 
 ## Overview
 
